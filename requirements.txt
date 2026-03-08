@@ -1,0 +1,9 @@
+einops
+jupyterlab
+matplotlib
+numpy
+scikit-learn
+seaborn
+torch
+torchvision
+tqdm
